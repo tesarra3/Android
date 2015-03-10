@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="titleTobBar">#ffffff</color>
+    <color name="sideMenuItem1">#ffffff</color>
+    <color name="sideMenuItem2">#333333</color>
+
+    <color name="forecastDay">#333333</color>
+    <color name="forecastCondition">#484a4f</color>
+    <color name="forecastTemperature">#404040</color>
+
+    <color name="todayStateCity">#404040</color>
+    <color name="todayTemperatureCondition">#333333</color>
+    <color name="todayInformations">#404040</color>
+
+</resources>
